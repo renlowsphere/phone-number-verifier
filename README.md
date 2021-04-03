@@ -1,6 +1,6 @@
 # phone-number-verifier
 Verify Phone Number Existence And Location
-#Setup
+# Setup
 <b>
 pkg install git<br>
 pkg install nodejs<br>
